@@ -1,2 +1,3 @@
-# MyImagesRepo
-个人图床
+# MyRepository
+
+image 图床
